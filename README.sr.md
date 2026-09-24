@@ -51,6 +51,12 @@ Lighthouse, laboratorijsko merenje živog sajta, septembar 2026.
   </tr>
 </table>
 
+<img src="media/inner-1.webp" alt="Pretraga oglasa po kategoriji">
+<sub>Pretraga oglasa po kategoriji</sub>
+
+<img src="media/inner-2.webp" alt="Kako funkcioniše kupovina i prodaja">
+<sub>Kako funkcioniše kupovina i prodaja</sub>
+
 ---
 
 <sub>Izrada: [D. Svilenković](https://svilenkovic.rs).</sub>

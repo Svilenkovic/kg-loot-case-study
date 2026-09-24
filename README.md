@@ -51,6 +51,12 @@ Lighthouse, lab test of the live site, September 2026.
   </tr>
 </table>
 
+<img src="media/inner-1.webp" alt="Listing search by category">
+<sub>Listing search by category</sub>
+
+<img src="media/inner-2.webp" alt="How buying and selling works">
+<sub>How buying and selling works</sub>
+
 ---
 
 <sub>Built by [D. Svilenković](https://svilenkovic.com).</sub>
